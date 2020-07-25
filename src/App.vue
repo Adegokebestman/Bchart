@@ -18,7 +18,5 @@ export default {
 </script>
 
 <style>
-Chart{
-  background-color: black;
-}
+
 </style>
